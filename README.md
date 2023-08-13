@@ -1,2 +1,2 @@
-# TgBotforCurrencyConversion
-Cool Telegram bot for python
+# TelegtramBot
+Okimo Telegram 👌👍
